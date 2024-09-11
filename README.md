@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jiajieC
 - 👀 I’m interested in coding and physics.
-- 🌱 I’m currently learning latex.
+- 🌱 I’m currently learning LaTeX.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
